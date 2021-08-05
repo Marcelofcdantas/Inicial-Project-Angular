@@ -1,5 +1,8 @@
 # CourseManager
 
+## Inicial-Project-Angular
+Project Developed with Angular while learning the framework
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server
